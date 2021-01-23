@@ -2,3 +2,7 @@ bin/
 .classpath
 .project
 *.bak
+.idea/
+*.ipr
+*.iml
+*.iws
